@@ -1,0 +1,1690 @@
+{
+    "flights": [
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Chicago",
+                    "arrival_root": "London",
+                    "total_duration": "7h 40m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5760",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "18:35",
+                    "arrival_time": "08:15"
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "London",
+                    "arrival_root": "Chicago",
+                    "total_duration": "8h 50m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5787",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "14:10",
+                    "arrival_time": "17:00"
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Chicago",
+                    "arrival_root": "London",
+                    "total_duration": "7h 40m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5760",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "18:35",
+                    "arrival_time": "08:15"
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "London",
+                    "arrival_root": "Chicago",
+                    "total_duration": "8h 50m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5789",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "11:55",
+                    "arrival_time": "14:45"
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Chicago",
+                    "arrival_root": "London",
+                    "total_duration": "7h 40m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5752",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "22:00",
+                    "arrival_time": "11:40"
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "London",
+                    "arrival_root": "Chicago",
+                    "total_duration": "8h 50m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5787",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "14:10",
+                    "arrival_time": "17:00"
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Chicago",
+                    "arrival_root": "London",
+                    "total_duration": "7h 40m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5760",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "18:35",
+                    "arrival_time": "08:15"
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "London",
+                    "arrival_root": "Chicago",
+                    "total_duration": "8h 50m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5789",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "11:55",
+                    "arrival_time": "14:45"
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "New York",
+                    "arrival_root": "Paris",
+                    "total_duration": "10h 30m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "19:30",
+                                "date": "Mon, 10 Feb",
+                                "location": "New York \u2219 EWR",
+                                "airport": "Newark Liberty International"
+                            },
+                            "arrival": {
+                                "time": "06:10",
+                                "date": "Tue, 11 Feb",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 622",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "07:30",
+                                "date": "Tue, 11 Feb",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "arrival": {
+                                "time": "12:00",
+                                "date": "Tue, 11 Feb",
+                                "location": "Paris \u2219 CDG",
+                                "airport": "Charles de Gaulle Airport"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 542",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "Paris",
+                    "arrival_root": "New York",
+                    "total_duration": "11h",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "13:00",
+                                "date": "Wed, 5 Mar",
+                                "location": "Paris \u2219 CDG",
+                                "airport": "Charles de Gaulle Airport"
+                            },
+                            "arrival": {
+                                "time": "15:40",
+                                "date": "Wed, 5 Mar",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 543",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "16:50",
+                                "date": "Wed, 5 Mar",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "arrival": {
+                                "time": "18:00",
+                                "date": "Wed, 5 Mar",
+                                "location": "New York \u2219 JFK",
+                                "airport": "John F. Kennedy International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-83 cm",
+                                    "seat_width": "44 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 615",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Chicago",
+                    "arrival_root": "London",
+                    "total_duration": "7h 40m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5760",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "18:35",
+                    "arrival_time": "08:15"
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "London",
+                    "arrival_root": "Chicago",
+                    "total_duration": "8h 50m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5787",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "14:10",
+                    "arrival_time": "17:00"
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Chicago",
+                    "arrival_root": "London",
+                    "total_duration": "7h 40m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5752",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "22:00",
+                    "arrival_time": "11:40"
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "London",
+                    "arrival_root": "Chicago",
+                    "total_duration": "8h 50m",
+                    "stops": [],
+                    "num_stops": 0,
+                    "is_direct": true,
+                    "flight_details": {
+                        "seating_info": {
+                            "seat_pitch": "78 cm",
+                            "seat_width": "41-43 cm",
+                            "seat_recline": "12 cm",
+                            "in-seat_power": "AC_USB",
+                            "wi-fi_on_board": "Yes"
+                        },
+                        "airline": "Finnair",
+                        "operating_airline": "American Airlines",
+                        "flight_number": "AY 5787",
+                        "audio_video_on_demand": "Yes"
+                    },
+                    "departure_time": "14:10",
+                    "arrival_time": "17:00"
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "New York",
+                    "arrival_root": "Paris",
+                    "total_duration": "10h 30m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "19:30",
+                                "date": "Mon, 10 Feb",
+                                "location": "New York \u2219 EWR",
+                                "airport": "Newark Liberty International"
+                            },
+                            "arrival": {
+                                "time": "06:10",
+                                "date": "Tue, 11 Feb",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 622",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "07:30",
+                                "date": "Tue, 11 Feb",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "arrival": {
+                                "time": "12:00",
+                                "date": "Tue, 11 Feb",
+                                "location": "Paris \u2219 CDG",
+                                "airport": "Charles de Gaulle Airport"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 542",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "Paris",
+                    "arrival_root": "New York",
+                    "total_duration": "11h 20m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "13:00",
+                                "date": "Wed, 5 Mar",
+                                "location": "Paris \u2219 CDG",
+                                "airport": "Charles de Gaulle Airport"
+                            },
+                            "arrival": {
+                                "time": "15:40",
+                                "date": "Wed, 5 Mar",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 543",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "17:00",
+                                "date": "Wed, 5 Mar",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "arrival": {
+                                "time": "18:20",
+                                "date": "Wed, 5 Mar",
+                                "location": "New York \u2219 EWR",
+                                "airport": "Newark Liberty International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 623",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "New York",
+                    "arrival_root": "Paris",
+                    "total_duration": "10h 35m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "19:25",
+                                "date": "Mon, 10 Feb",
+                                "location": "New York \u2219 JFK",
+                                "airport": "John F. Kennedy International"
+                            },
+                            "arrival": {
+                                "time": "06:10",
+                                "date": "Tue, 11 Feb",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 614",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "07:30",
+                                "date": "Tue, 11 Feb",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "arrival": {
+                                "time": "12:00",
+                                "date": "Tue, 11 Feb",
+                                "location": "Paris \u2219 CDG",
+                                "airport": "Charles de Gaulle Airport"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 542",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "Paris",
+                    "arrival_root": "New York",
+                    "total_duration": "11h",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "13:00",
+                                "date": "Wed, 5 Mar",
+                                "location": "Paris \u2219 CDG",
+                                "airport": "Charles de Gaulle Airport"
+                            },
+                            "arrival": {
+                                "time": "15:40",
+                                "date": "Wed, 5 Mar",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 543",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "16:50",
+                                "date": "Wed, 5 Mar",
+                                "location": "Reykjavik \u2219 KEF",
+                                "airport": "Keflav\u00edk International"
+                            },
+                            "arrival": {
+                                "time": "18:00",
+                                "date": "Wed, 5 Mar",
+                                "location": "New York \u2219 JFK",
+                                "airport": "John F. Kennedy International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-83 cm",
+                                    "seat_width": "44 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Icelandair",
+                                "operating_airline": "Icelandair",
+                                "flight_number": "FI 615",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Los Angeles",
+                    "arrival_root": "Lahore",
+                    "total_duration": "24h 15m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "18:55",
+                                "date": "Sat, 15 Feb",
+                                "location": "Los Angeles \u2219 LAX",
+                                "airport": "Los Angeles International"
+                            },
+                            "arrival": {
+                                "time": "19:10",
+                                "date": "Sun, 16 Feb",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "flight_details": {
+                                "seating_info": {},
+                                "airline": "Turkish Airlines",
+                                "operating_airline": "Turkish Airlines",
+                                "flight_number": "TK 10",
+                                "seat_pitch": "N/A",
+                                "seat_width": "N/A",
+                                "seat_recline": "N/A",
+                                "audio_video_on_demand": "N/A",
+                                "in-seat_power": "N/A",
+                                "wi-fi_on_board": "N/A"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "00:55",
+                                "date": "Mon, 17 Feb",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "arrival": {
+                                "time": "08:10",
+                                "date": "Mon, 17 Feb",
+                                "location": "Lahore \u2219 LHE",
+                                "airport": "Allama Iqbal International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "19 cm",
+                                    "in-seat_power": "AC",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Turkish Airlines",
+                                "operating_airline": "Turkish Airlines",
+                                "flight_number": "TK 744",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "Lahore",
+                    "arrival_root": "Los Angeles",
+                    "total_duration": "23h 55m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "06:05",
+                                "date": "Mon, 10 Mar",
+                                "location": "Lahore \u2219 LHE",
+                                "airport": "Allama Iqbal International"
+                            },
+                            "arrival": {
+                                "time": "10:45",
+                                "date": "Mon, 10 Mar",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78 cm",
+                                    "seat_width": "44 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "USB",
+                                    "wi-fi_on_board": "No"
+                                },
+                                "airline": "Turkish Airlines",
+                                "operating_airline": "Turkish Airlines",
+                                "flight_number": "TK 715",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "13:50",
+                                "date": "Mon, 10 Mar",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "arrival": {
+                                "time": "18:00",
+                                "date": "Mon, 10 Mar",
+                                "location": "Los Angeles \u2219 LAX",
+                                "airport": "Los Angeles International"
+                            },
+                            "flight_details": {
+                                "seating_info": {},
+                                "airline": "Turkish Airlines",
+                                "operating_airline": "Turkish Airlines",
+                                "flight_number": "TK 9",
+                                "seat_pitch": "N/A",
+                                "seat_width": "N/A",
+                                "seat_recline": "N/A",
+                                "audio_video_on_demand": "N/A",
+                                "in-seat_power": "N/A",
+                                "wi-fi_on_board": "N/A"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Toronto",
+                    "arrival_root": "Multan",
+                    "total_duration": "35h 40m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "13:55",
+                                "date": "Thu, 20 Feb",
+                                "location": "Toronto \u2219 YYZ",
+                                "airport": "Toronto Pearson International"
+                            },
+                            "arrival": {
+                                "time": "11:40",
+                                "date": "Fri, 21 Feb",
+                                "location": "Dubai \u2219 DXB",
+                                "airport": "Dubai International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "81-86 cm",
+                                    "seat_width": "45 cm",
+                                    "seat_recline": "12 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Emirates",
+                                "operating_airline": "Emirates",
+                                "flight_number": "EK 242",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "08:00",
+                                "date": "Sat, 22 Feb",
+                                "location": "Dubai \u2219 DXB",
+                                "airport": "Dubai International"
+                            },
+                            "arrival": {
+                                "time": "11:35",
+                                "date": "Sat, 22 Feb",
+                                "location": "Multan \u2219 MUX",
+                                "airport": "Multan International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "73-76 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Emirates",
+                                "operating_airline": "Fly Dubai",
+                                "flight_number": "EK 2102",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "Multan",
+                    "arrival_root": "Toronto",
+                    "total_duration": "31h",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "11:30",
+                                "date": "Sat, 15 Mar",
+                                "location": "Multan \u2219 MUX",
+                                "airport": "Multan International"
+                            },
+                            "arrival": {
+                                "time": "12:55",
+                                "date": "Sat, 15 Mar",
+                                "location": "Karachi \u2219 KHI",
+                                "airport": "Jinnah International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "76 cm",
+                                    "seat_width": "45 cm",
+                                    "seat_recline": "7 cm",
+                                    "wi-fi_on_board": "No"
+                                },
+                                "airline": "Pakistan International Airlines",
+                                "operating_airline": "Pakistan International Airlines",
+                                "flight_number": "PK 331",
+                                "audio_video_on_demand": "N/A",
+                                "in-seat_power": "N/A"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "22:40",
+                                "date": "Sat, 15 Mar",
+                                "location": "Karachi \u2219 KHI",
+                                "airport": "Jinnah International"
+                            },
+                            "arrival": {
+                                "time": "00:05",
+                                "date": "Sun, 16 Mar",
+                                "location": "Dubai \u2219 DXB",
+                                "airport": "Dubai International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "81-83 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "15 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Emirates",
+                                "operating_airline": "Emirates",
+                                "flight_number": "EK 603",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 3,
+                            "departure": {
+                                "time": "03:30",
+                                "date": "Sun, 16 Mar",
+                                "location": "Dubai \u2219 DXB",
+                                "airport": "Dubai International"
+                            },
+                            "arrival": {
+                                "time": "09:30",
+                                "date": "Sun, 16 Mar",
+                                "location": "Toronto \u2219 YYZ",
+                                "airport": "Toronto Pearson International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "81-86 cm",
+                                    "seat_width": "45 cm",
+                                    "seat_recline": "12 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Emirates",
+                                "operating_airline": "Emirates",
+                                "flight_number": "EK 241",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 3,
+                    "is_direct": false
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Los Angeles",
+                    "arrival_root": "Lahore",
+                    "total_duration": "20h 40m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "18:55",
+                                "date": "Sat, 15 Feb",
+                                "location": "Los Angeles \u2219 LAX",
+                                "airport": "Los Angeles International"
+                            },
+                            "arrival": {
+                                "time": "19:10",
+                                "date": "Sun, 16 Feb",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "flight_details": {
+                                "seating_info": {},
+                                "airline": "Turkish Airlines",
+                                "operating_airline": "Turkish Airlines",
+                                "flight_number": "TK 10",
+                                "seat_pitch": "N/A",
+                                "seat_width": "N/A",
+                                "seat_recline": "N/A",
+                                "audio_video_on_demand": "N/A",
+                                "in-seat_power": "N/A",
+                                "wi-fi_on_board": "N/A"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "21:20",
+                                "date": "Sun, 16 Feb",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "arrival": {
+                                "time": "04:35",
+                                "date": "Mon, 17 Feb",
+                                "location": "Lahore \u2219 LHE",
+                                "airport": "Allama Iqbal International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78 cm",
+                                    "seat_width": "44 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "USB",
+                                    "wi-fi_on_board": "No"
+                                },
+                                "airline": "Turkish Airlines",
+                                "operating_airline": "Turkish Airlines",
+                                "flight_number": "TK 714",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "Lahore",
+                    "arrival_root": "Los Angeles",
+                    "total_duration": "23h 55m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "06:05",
+                                "date": "Mon, 10 Mar",
+                                "location": "Lahore \u2219 LHE",
+                                "airport": "Allama Iqbal International"
+                            },
+                            "arrival": {
+                                "time": "10:45",
+                                "date": "Mon, 10 Mar",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78 cm",
+                                    "seat_width": "44 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "USB",
+                                    "wi-fi_on_board": "No"
+                                },
+                                "airline": "Turkish Airlines",
+                                "operating_airline": "Turkish Airlines",
+                                "flight_number": "TK 715",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "13:50",
+                                "date": "Mon, 10 Mar",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "arrival": {
+                                "time": "18:00",
+                                "date": "Mon, 10 Mar",
+                                "location": "Los Angeles \u2219 LAX",
+                                "airport": "Los Angeles International"
+                            },
+                            "flight_details": {
+                                "seating_info": {},
+                                "airline": "Turkish Airlines",
+                                "operating_airline": "Turkish Airlines",
+                                "flight_number": "TK 9",
+                                "seat_pitch": "N/A",
+                                "seat_width": "N/A",
+                                "seat_recline": "N/A",
+                                "audio_video_on_demand": "N/A",
+                                "in-seat_power": "N/A",
+                                "wi-fi_on_board": "N/A"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Toronto",
+                    "arrival_root": "Multan",
+                    "total_duration": "21h 10m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "14:30",
+                                "date": "Thu, 20 Feb",
+                                "location": "Toronto \u2219 YYZ",
+                                "airport": "Toronto Pearson International"
+                            },
+                            "arrival": {
+                                "time": "12:20",
+                                "date": "Fri, 21 Feb",
+                                "location": "Abu Dhabi \u2219 AUH",
+                                "airport": "Zayed International Airport"
+                            },
+                            "flight_details": {
+                                "seating_info": {},
+                                "airline": "N/A",
+                                "operating_airline": "N/A",
+                                "flight_number": "N/A",
+                                "seat_pitch": "N/A",
+                                "seat_width": "N/A",
+                                "seat_recline": "N/A",
+                                "audio_video_on_demand": "N/A",
+                                "in-seat_power": "N/A",
+                                "wi-fi_on_board": "N/A"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "14:40",
+                                "date": "Fri, 21 Feb",
+                                "location": "Abu Dhabi \u2219 AUH",
+                                "airport": "Zayed International Airport"
+                            },
+                            "arrival": {
+                                "time": "17:50",
+                                "date": "Fri, 21 Feb",
+                                "location": "Karachi \u2219 KHI",
+                                "airport": "Jinnah International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "76-81 cm",
+                                    "seat_width": "45 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Etihad Airways",
+                                "operating_airline": "Etihad Airways",
+                                "flight_number": "EY 294",
+                                "audio_video_on_demand": "Own device"
+                            }
+                        },
+                        {
+                            "stop_number": 3,
+                            "departure": {
+                                "time": "20:15",
+                                "date": "Fri, 21 Feb",
+                                "location": "Karachi \u2219 KHI",
+                                "airport": "Jinnah International"
+                            },
+                            "arrival": {
+                                "time": "21:40",
+                                "date": "Fri, 21 Feb",
+                                "location": "Multan \u2219 MUX",
+                                "airport": "Multan International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "76 cm",
+                                    "seat_width": "45 cm",
+                                    "seat_recline": "7 cm",
+                                    "wi-fi_on_board": "No"
+                                },
+                                "airline": "Pakistan International Airlines",
+                                "operating_airline": "Pakistan International Airlines",
+                                "flight_number": "PK 330",
+                                "audio_video_on_demand": "N/A",
+                                "in-seat_power": "N/A"
+                            }
+                        }
+                    ],
+                    "num_stops": 3,
+                    "is_direct": false
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "Multan",
+                    "arrival_root": "Toronto",
+                    "total_duration": "33h 20m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "06:40",
+                                "date": "Sat, 15 Mar",
+                                "location": "Multan \u2219 MUX",
+                                "airport": "Multan International"
+                            },
+                            "arrival": {
+                                "time": "09:00",
+                                "date": "Sat, 15 Mar",
+                                "location": "Dubai \u2219 DXB",
+                                "airport": "Dubai International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "76 cm",
+                                    "seat_width": "45 cm",
+                                    "seat_recline": "7 cm",
+                                    "wi-fi_on_board": "No"
+                                },
+                                "airline": "Pakistan International Airlines",
+                                "operating_airline": "Pakistan International Airlines",
+                                "flight_number": "PK 221",
+                                "audio_video_on_demand": "N/A",
+                                "in-seat_power": "N/A"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "20:00",
+                                "date": "Sat, 15 Mar",
+                                "location": "Dubai \u2219 DXB",
+                                "airport": "Dubai International"
+                            },
+                            "arrival": {
+                                "time": "22:05",
+                                "date": "Sat, 15 Mar",
+                                "location": "Cairo \u2219 CAI",
+                                "airport": "Cairo International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "10 cm",
+                                    "in-seat_power": "USB",
+                                    "wi-fi_on_board": "No"
+                                },
+                                "airline": "Egyptair",
+                                "operating_airline": "Egyptair",
+                                "flight_number": "MS 906",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 3,
+                            "departure": {
+                                "time": "01:05",
+                                "date": "Sun, 16 Mar",
+                                "location": "Cairo \u2219 CAI",
+                                "airport": "Cairo International"
+                            },
+                            "arrival": {
+                                "time": "07:00",
+                                "date": "Sun, 16 Mar",
+                                "location": "Toronto \u2219 YYZ",
+                                "airport": "Toronto Pearson International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78-81 cm",
+                                    "seat_width": "45 cm",
+                                    "seat_recline": "12 cm",
+                                    "in-seat_power": "USB",
+                                    "wi-fi_on_board": "No"
+                                },
+                                "airline": "Egyptair",
+                                "operating_airline": "Egyptair",
+                                "flight_number": "MS 995",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 3,
+                    "is_direct": false
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Los Angeles",
+                    "arrival_root": "Lahore",
+                    "total_duration": "30h 10m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "13:00",
+                                "date": "Sat, 15 Feb",
+                                "location": "Los Angeles \u2219 LAX",
+                                "airport": "Los Angeles International"
+                            },
+                            "arrival": {
+                                "time": "13:15",
+                                "date": "Sun, 16 Feb",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "N/A",
+                                    "seat_width": "N/A",
+                                    "seat_recline": "N/A",
+                                    "in-seat_power": "N/A",
+                                    "wi-fi_on_board": "N/A"
+                                },
+                                "airline": "N/A",
+                                "operating_airline": "N/A",
+                                "flight_number": "N/A",
+                                "audio_video_on_demand": "N/A"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "00:55",
+                                "date": "Mon, 17 Feb",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "arrival": {
+                                "time": "08:10",
+                                "date": "Mon, 17 Feb",
+                                "location": "Lahore \u2219 LHE",
+                                "airport": "Allama Iqbal International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "81 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "19 cm",
+                                    "in-seat_power": "AC",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Turkish Airlines",
+                                "operating_airline": "Turkish Airlines",
+                                "flight_number": "TK 744",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "Lahore",
+                    "arrival_root": "Los Angeles",
+                    "total_duration": "38h 25m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "09:40",
+                                "date": "Mon, 10 Mar",
+                                "location": "Lahore \u2219 LHE",
+                                "airport": "Allama Iqbal International"
+                            },
+                            "arrival": {
+                                "time": "14:20",
+                                "date": "Mon, 10 Mar",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78 cm",
+                                    "seat_width": "45 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Turkish Airlines",
+                                "operating_airline": "Turkish Airlines",
+                                "flight_number": "TK 745",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "08:00",
+                                "date": "Tue, 11 Mar",
+                                "location": "Istanbul \u2219 IST",
+                                "airport": "Istanbul Airport"
+                            },
+                            "arrival": {
+                                "time": "12:05",
+                                "date": "Tue, 11 Mar",
+                                "location": "Los Angeles \u2219 LAX",
+                                "airport": "Los Angeles International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "78 cm",
+                                    "seat_width": "45 cm",
+                                    "seat_recline": "116 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Turkish Airlines",
+                                "operating_airline": "Turkish Airlines",
+                                "flight_number": "TK 179",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 2,
+                    "is_direct": false
+                }
+            ]
+        },
+        {
+            "flight_type": "round trip",
+            "flights": [
+                {
+                    "flight_label": "departure",
+                    "departure_root": "Toronto",
+                    "arrival_root": "Multan",
+                    "total_duration": "32h 35m",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "17:00",
+                                "date": "Thu, 20 Feb",
+                                "location": "Toronto \u2219 YYZ",
+                                "airport": "Toronto Pearson International"
+                            },
+                            "arrival": {
+                                "time": "18:42",
+                                "date": "Thu, 20 Feb",
+                                "location": "Boston \u2219 BOS",
+                                "airport": "Logan International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "N/A",
+                                    "seat_width": "N/A",
+                                    "seat_recline": "N/A",
+                                    "in-seat_power": "N/A",
+                                    "wi-fi_on_board": "N/A"
+                                },
+                                "airline": "N/A",
+                                "operating_airline": "N/A",
+                                "flight_number": "N/A",
+                                "audio_video_on_demand": "N/A"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "22:10",
+                                "date": "Thu, 20 Feb",
+                                "location": "Boston \u2219 BOS",
+                                "airport": "Logan International"
+                            },
+                            "arrival": {
+                                "time": "19:20",
+                                "date": "Fri, 21 Feb",
+                                "location": "Dubai \u2219 DXB",
+                                "airport": "Dubai International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "81-83 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "15 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Emirates",
+                                "operating_airline": "Emirates",
+                                "flight_number": "EK 238",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 3,
+                            "departure": {
+                                "time": "08:00",
+                                "date": "Sat, 22 Feb",
+                                "location": "Dubai \u2219 DXB",
+                                "airport": "Dubai International"
+                            },
+                            "arrival": {
+                                "time": "11:35",
+                                "date": "Sat, 22 Feb",
+                                "location": "Multan \u2219 MUX",
+                                "airport": "Multan International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "73-76 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "7 cm",
+                                    "in-seat_power": "USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Emirates",
+                                "operating_airline": "Fly Dubai",
+                                "flight_number": "EK 2102",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 3,
+                    "is_direct": false
+                },
+                {
+                    "flight_label": "return",
+                    "departure_root": "Multan",
+                    "arrival_root": "Toronto",
+                    "total_duration": "31h",
+                    "stops": [
+                        {
+                            "stop_number": 1,
+                            "departure": {
+                                "time": "11:30",
+                                "date": "Sat, 15 Mar",
+                                "location": "Multan \u2219 MUX",
+                                "airport": "Multan International"
+                            },
+                            "arrival": {
+                                "time": "12:55",
+                                "date": "Sat, 15 Mar",
+                                "location": "Karachi \u2219 KHI",
+                                "airport": "Jinnah International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "76 cm",
+                                    "seat_width": "45 cm",
+                                    "seat_recline": "7 cm",
+                                    "wi-fi_on_board": "No"
+                                },
+                                "airline": "Pakistan International Airlines",
+                                "operating_airline": "Pakistan International Airlines",
+                                "flight_number": "PK 331",
+                                "audio_video_on_demand": "N/A",
+                                "in-seat_power": "N/A"
+                            }
+                        },
+                        {
+                            "stop_number": 2,
+                            "departure": {
+                                "time": "22:40",
+                                "date": "Sat, 15 Mar",
+                                "location": "Karachi \u2219 KHI",
+                                "airport": "Jinnah International"
+                            },
+                            "arrival": {
+                                "time": "00:05",
+                                "date": "Sun, 16 Mar",
+                                "location": "Dubai \u2219 DXB",
+                                "airport": "Dubai International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "81-83 cm",
+                                    "seat_width": "43 cm",
+                                    "seat_recline": "15 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Emirates",
+                                "operating_airline": "Emirates",
+                                "flight_number": "EK 603",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        },
+                        {
+                            "stop_number": 3,
+                            "departure": {
+                                "time": "03:30",
+                                "date": "Sun, 16 Mar",
+                                "location": "Dubai \u2219 DXB",
+                                "airport": "Dubai International"
+                            },
+                            "arrival": {
+                                "time": "09:30",
+                                "date": "Sun, 16 Mar",
+                                "location": "Toronto \u2219 YYZ",
+                                "airport": "Toronto Pearson International"
+                            },
+                            "flight_details": {
+                                "seating_info": {
+                                    "seat_pitch": "81-86 cm",
+                                    "seat_width": "45 cm",
+                                    "seat_recline": "12 cm",
+                                    "in-seat_power": "AC_USB",
+                                    "wi-fi_on_board": "Yes"
+                                },
+                                "airline": "Emirates",
+                                "operating_airline": "Emirates",
+                                "flight_number": "EK 241",
+                                "audio_video_on_demand": "Yes"
+                            }
+                        }
+                    ],
+                    "num_stops": 3,
+                    "is_direct": false
+                }
+            ]
+        }
+    ]
+}
